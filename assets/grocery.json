@@ -1,0 +1,88 @@
+{
+  "grocery_market": {
+    "name": "Example Grocery Market",
+    "location": "123 Market Street, Sample City, EX 12345",
+    "products": [
+      {
+        "id": "0001",
+        "name": "Apple",
+        "category": "Fruits",
+        "price": 0.5,
+        "stock": 100,
+        "supplier": "Fresh Farms"
+      },
+      {
+        "id": "0002",
+        "name": "Banana",
+        "category": "Fruits",
+        "price": 0.3,
+        "stock": 150,
+        "supplier": "Tropical Supplies"
+      },
+      {
+        "id": "0003",
+        "name": "Orange",
+        "category": "Fruits",
+        "price": 0.6,
+        "stock": 120,
+        "supplier": "Citrus World"
+      },
+      {
+        "id": "0004",
+        "name": "Broccoli",
+        "category": "Vegetables",
+        "price": 1.2,
+        "stock": 80,
+        "supplier": "Green Valley"
+      },
+      {
+        "id": "0005",
+        "name": "Carrot",
+        "category": "Vegetables",
+        "price": 0.7,
+        "stock": 200,
+        "supplier": "Rooty Fresh"
+      },
+      {
+        "id": "0006",
+        "name": "Chicken Breast",
+        "category": "Meat",
+        "price": 3.5,
+        "stock": 50,
+        "supplier": "Poultry Farms"
+      },
+      {
+        "id": "0007",
+        "name": "Salmon Fillet",
+        "category": "Seafood",
+        "price": 7.5,
+        "stock": 30,
+        "supplier": "Ocean Catch"
+      },
+      {
+        "id": "0008",
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 1.5,
+        "stock": 180,
+        "supplier": "Dairy Pure"
+      },
+      {
+        "id": "0009",
+        "name": "Cheddar Cheese",
+        "category": "Dairy",
+        "price": 2.5,
+        "stock": 90,
+        "supplier": "Cheese Craft"
+      },
+      {
+        "id": "0010",
+        "name": "Eggs",
+        "category": "Dairy",
+        "price": 2.0,
+        "stock": 160,
+        "supplier": "Farm Fresh"
+      }
+    ]
+  }
+}
